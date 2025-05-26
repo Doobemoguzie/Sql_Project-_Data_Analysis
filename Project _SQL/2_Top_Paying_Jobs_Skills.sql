@@ -15,7 +15,6 @@ WITH top_paying_jobs AS (
     WHERE
         job_title_short = 'Data Analyst' AND
         salary_year_avg IS NOT NULL AND
-        job_country = 'United States' AND
         job_work_from_home = TRUE
     ORDER BY
         salary_year_avg DESC
@@ -31,7 +30,7 @@ FROM
 INNER JOIN skills_job_dim ON top_paying_jobs.job_id = skills_job_dim.job_id
 INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY
-    salary_year_avg
+    salary_year_avg DESC;
 
 
 
