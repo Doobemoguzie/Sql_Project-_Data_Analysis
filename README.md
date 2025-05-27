@@ -255,7 +255,7 @@ Go (27, $115,320) leads in salary for newer backend/DevOps roles.
 
 SSIS (12, $106,683) and Jira (20, $104,918) are stable but lower-growth.
 
--**3. The Big Data Salary Premium**
+- **3. The Big Data Salary Premium**
 
 Key Insight: Hadoop (22, $113,193) still outearns general-purpose tools (Java, AWS).
 Context:
