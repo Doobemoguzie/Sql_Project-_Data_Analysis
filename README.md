@@ -67,7 +67,7 @@ Researched and categorized 2023’s most sought-after data analyst positions:
 
 3. **Job Title Diversity:** Data analytics encompasses a broad spectrum of job titles, including Data Analyst and Director of Analytics, indicating diverse roles and focus areas.
 
-!["This bar graph visualizes the highest 10 salaries for data analysts, generated in Excel using my SQL data."](<Screenshot 2025-05-25 224150.png>)
+![alt text](<Top paying salaries.png>)
 
 *"This bar graph visualizes the highest 10 salaries for data analysts, generated in Excel using my SQL data."*
 
