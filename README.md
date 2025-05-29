@@ -67,7 +67,8 @@ Researched and categorized 2023’s most sought-after data analyst positions:
 
 3. **Job Title Diversity:** Data analytics encompasses a broad spectrum of job titles, including Data Analyst and Director of Analytics, indicating diverse roles and focus areas.
 
-![alt text](<Top paying salaries.png>)
+
+![Top paying salaries.png](<assets/Top paying salaries.png>)>
 
 *"This bar graph visualizes the highest 10 salaries for data analysts, generated in Excel using my SQL data."*
 
@@ -114,7 +115,7 @@ Breakdown of the most sought-after skills for the highest-paying data analyst po
 
 **Technical Skills:** SQL (80% prevalence), Python (70%), Tableau (60%), R, Snowflake, Pandas, Excel
 
-![*"Bar graph illustrating skill frequency across top 10 highest-paying data analyst roles, generated from SQL query results using Excel."*](<Top 10 skills paying job skills.png>)
+![*"Bar graph illustrating skill frequency across top 10 highest-paying data analyst roles, generated from SQL query results using Excel."*](<assets/Top 10 skills paying job skills.png>)>
 
 "*Bar graph illustrating skill frequency across top 10 highest-paying data analyst roles, generated from my SQL query results using Excel.*"
 
